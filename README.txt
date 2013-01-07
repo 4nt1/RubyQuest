@@ -1,5 +1,4 @@
 RubyQuest Version 0.1
-Nécessite une version de Ruby 1.9.*
  
  ************* Procédure d'installation Windows *******************
 
@@ -23,7 +22,7 @@ Nécessite une version de Ruby 1.9.*
 
  ************* Procédure d'installation Ubuntu 12.04 (et dérivés, Mint...) *******************
  1) Ouvrez un terminal et tapez 
- 	sudo apt-get install ruby1.9.1-full
+ 	sudo apt-get install ruby-full
 
  2) Placez le dossier RubyQuest dans un dossier (par exemple Documents)
 
